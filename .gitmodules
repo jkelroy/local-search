@@ -1,0 +1,6 @@
+[submodule "test-private"]
+	path = test-private
+	url = https://github.com/jkelroy1/test-private.git
+[submodule "hello-world"]
+	path = hello-world
+	url = https://github.com/jkelroy1/hello-world.git
